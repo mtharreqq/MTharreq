@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'MTharreq</h1>
+<h1 align="left">Hi, I'MTharreq 👋</h1>
 <p align="left">I specialize in creating seamless user experiences and responsive interfaces using Figma, ReactJS, and Tailwind CSS. Skilled in collaborating with dynamic teams, I consistently deliver high-quality websites that blend aesthetic design with functionality.</p>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
